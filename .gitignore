@@ -122,6 +122,9 @@ venv.bak/
 
 #github configuration
 git_connection.ipynb
+kaggle.json
+dataset/
+brain-tumor-classification-mri.zip
 
 # mypy
 .mypy_cache/
